@@ -1,0 +1,5 @@
+C:\Users\cbeck\source\repos\UrbanFarm\UrbanFarm.Data\bin\Debug\UrbanFarm.Data.dll
+C:\Users\cbeck\source\repos\UrbanFarm\UrbanFarm.Data\bin\Debug\UrbanFarm.Data.pdb
+C:\Users\cbeck\source\repos\UrbanFarm\UrbanFarm.Data\obj\Debug\UrbanFarm.Data.csprojAssemblyReference.cache
+C:\Users\cbeck\source\repos\UrbanFarm\UrbanFarm.Data\obj\Debug\UrbanFarm.Data.dll
+C:\Users\cbeck\source\repos\UrbanFarm\UrbanFarm.Data\obj\Debug\UrbanFarm.Data.pdb
